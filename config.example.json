@@ -1,5 +1,5 @@
 {
 	"blobUrlsKey": "blobs-to-import",
 	"dzisKey": "dzis-to-upload",
-	"blobBaseUrl": "http://cache.zoom.it/content"
+	"blobBaseUrl": "http://cache.zoom.it"
 }
