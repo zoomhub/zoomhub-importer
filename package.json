@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "populate": "./lib/populate-queue.js"
+    "populate": "./lib/populate-queue.js",
+    "import-blob": "./lib/import-blob.js"
   },
   "author": "Ken Perkins <ken.perkins@rackspace.com>",
   "license": "MIT",
