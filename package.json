@@ -1,0 +1,27 @@
+{
+  "name": "zoomhub-importer",
+  "version": "1.0.0",
+  "description": "Batch Importer for zoomhub content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "populate": "./lib/populate-queue.js"
+  },
+  "author": "Ken Perkins <ken.perkins@rackspace.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "~0.9.0",
+    "commander": "~2.3.0",
+    "deepzoomtools": "0.0.5",
+    "hiredis": "~0.1.17",
+    "pipe-lines": "~0.1.2",
+    "pkgcloud": "git://github.com/pkgcloud/pkgcloud.git#newStorageApi",
+    "pretty-bytes": "~1.0.1",
+    "redis": "~0.12.1",
+    "request": "~2.45.0",
+    "winston": "~0.8.1",
+    "xml2js": "~0.4.4"
+  }
+}
