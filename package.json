@@ -15,7 +15,7 @@
   "dependencies": {
     "async": "~0.9.0",
     "commander": "~2.3.0",
-    "deepzoomtools": "0.0.5",
+    "deepzoomtools": "git://github.com/kenperkins/node-deepzoomtools.git",
     "hiredis": "~0.1.17",
     "pipe-lines": "~0.1.2",
     "pkgcloud": "git://github.com/pkgcloud/pkgcloud.git#newStorageApi",
