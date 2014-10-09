@@ -7,8 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "populate": "./lib/populate-queue.js",
-    "import-blob": "./lib/import-blob.js"
+    "zh-populate-queue": "./lib/populate-queue.js",
+    "zh-upload-dzis": "./lib/dzi-loader.js",
+    "zh-import-blobs": "./lib/import-blob.js"
   },
   "author": "Ken Perkins <ken.perkins@rackspace.com>",
   "license": "MIT",
@@ -16,6 +17,7 @@
     "async": "~0.9.0",
     "commander": "~2.3.0",
     "deepzoomtools": "0.0.6",
+    "node-etcd": "2.1.5",
     "hiredis": "~0.1.17",
     "pipe-lines": "~0.1.2",
     "pkgcloud": "git://github.com/pkgcloud/pkgcloud.git#newStorageApi",
