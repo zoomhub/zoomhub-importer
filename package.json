@@ -8,7 +8,7 @@
   },
   "bin": {
     "zh-populate-queue": "./lib/populate-queue.js",
-    "zh-upload-dzis": "./lib/dzi-loader.js",
+    "zh-upload-dzis": "./lib/upload-dzi.js",
     "zh-import-blobs": "./lib/import-blob.js"
   },
   "author": "Ken Perkins <ken.perkins@rackspace.com>",
