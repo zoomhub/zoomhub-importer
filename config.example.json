@@ -1,5 +1,7 @@
 {
 	"blobUrlsKey": "blobs-to-import",
 	"dzisKey": "dzis-to-upload",
-	"blobBaseUrl": "http://cache.zoom.it"
+	"blobBaseUrl": "http://cache.zoom.it",
+  "logFrequency": 5,
+  "workerCount": 5
 }
