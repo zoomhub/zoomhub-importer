@@ -1,6 +1,6 @@
 {
   "name": "zoomhub-importer",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Batch Importer for zoomhub content",
   "main": "index.js",
   "scripts": {
