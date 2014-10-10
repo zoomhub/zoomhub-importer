@@ -1,7 +1,15 @@
 {
   "blobUrlsKey": "blobs-to-import",
   "dzisKey": "dzis-to-upload",
+
+  "totalBlobsKey": "totalBlobs",
+  "totalBlobsProcessedKey": "totalBlobsProcessed",
+  "totalBlobsSizeKey": "totalBlobsSize",
+
+  "totalDzisKey": "totalDzis",
+  "totalDzisProcessedKey": "totalDzisProcessed",
+  "totalDzisSizeKey": "totalDzisSize",
+
   "blobBaseUrl": "http://cache.zoom.it",
-  "logFrequency": 5,
-  "workerCount": 5
+  "logFrequency": 60
 }
