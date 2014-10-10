@@ -9,7 +9,8 @@
   "bin": {
     "zh-populate-queue": "./lib/populate-queue.js",
     "zh-upload-dzis": "./lib/upload-dzi.js",
-    "zh-import-blobs": "./lib/import-blob.js"
+    "zh-import-blobs": "./lib/import-blob.js",
+    "zh-stats": "./lib/display-stats.js"
   },
   "author": "Ken Perkins <ken.perkins@rackspace.com>",
   "license": "MIT",
