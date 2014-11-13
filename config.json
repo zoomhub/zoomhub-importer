@@ -10,6 +10,6 @@
   "totalDzisProcessedKey": "totalDzisProcessed",
   "totalDzisSizeKey": "totalDzisSize",
 
-  "blobBaseUrl": "http://cache.zoom.it",
+  "blobBaseUrl": "http://content.zoomhub.net",
   "logFrequency": 60
 }
